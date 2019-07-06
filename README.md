@@ -1,0 +1,5 @@
+- pkg install python2 git -y
+- pip2 install requests mechanize
+- git clone https://github.com/Bl4ckDr460n/FaceCrack
+- cd FaceCrack
+- python2 facecrack.py
